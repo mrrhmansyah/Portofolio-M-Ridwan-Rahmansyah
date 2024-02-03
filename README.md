@@ -13,16 +13,16 @@ My portfolio serves as a repository to showcase my skills, share projects I have
 My CV in [pdf](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah/blob/main/CV.pdf).
 
 ## Table of Contents
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [About](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah?tab=readme-ov-file#about)
+- [Portfolio Projects](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah?tab=readme-ov-file#portfolio-projects)
   - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
+    - [preprocess and prediction through ml models](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah?tab=readme-ov-file#preprocess-and-prediction-through-ml-models)
+    - [Cause Of Death](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah?tab=readme-ov-file#cause-of-death-analysis)  
   
 
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Education](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah?tab=readme-ov-file#education)  
+- [Certificates](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah?tab=readme-ov-file#certificates)
+- [Contact](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah?tab=readme-ov-file#contacts)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
@@ -53,27 +53,10 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 
-
-
 ## Education
-University of Colorado, Boulder: 
-Master of Science - MS, Data Science,
-Dec 2022 - Dec 2024
+Bachelor of Information System, Mercu Buana University, 2021 - Present
 
-The University of the West Indies, Mona:
-Bachelor's degree, Biochemistry and Molecular Biology,
-2019 - 2022
-
-Pre University School:
-Associate's degree, Science and Mathematics,
-2017 - 2019
-
-## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
-- Email: parristianna@yahoo.com
+- LinkedIn: [@mrrhmansyah](https://www.linkedin.com/in/mochamad-ridwan-rahmansyah-221741266/)
+- Email: ridwanrahmansyah09@gmail.com
