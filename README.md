@@ -10,7 +10,7 @@ I am eager to explore internship opportunities or entry-level positions that wil
 
 My portfolio serves as a repository to showcase my skills, share projects I have worked on, and track my progress in Data Analysis/Data Science-related topics.
 
-My CV in [pdf](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah/blob/main/CV.pdf).
+My CV in [pdf](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah/blob/main/Mochamad%20Ridwan%20Rahmansyah-resume.pdf).
 
 ## Table of Contents
 - [About](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah?tab=readme-ov-file#about)
@@ -21,7 +21,6 @@ My CV in [pdf](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah/blo
   
 
 - [Education](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah?tab=readme-ov-file#education)  
-- [Certificates](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah?tab=readme-ov-file#certificates)
 - [Contact](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah?tab=readme-ov-file#contacts)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
