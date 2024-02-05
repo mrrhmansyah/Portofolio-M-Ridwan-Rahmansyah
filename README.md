@@ -14,7 +14,7 @@ In my quest for professional growth, I am earnestly seeking an opportunity to im
 
 My portfolio serves as a repository to showcase my skills, share projects I have worked on, and track my progress in Data Analysis/Data Science-related topics.
 
-My CV in [pdf](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah/blob/main/Mochamad%20Ridwan%20Rahmansyah-resume.pdf).
+My CV in [pdf](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah/blob/main/CV%20Mochamad%20Ridwan%20Rahmansyah.pdf).
 
 ## Table of Contents
 - [About](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah?tab=readme-ov-file#about)
