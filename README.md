@@ -22,7 +22,7 @@ My CV in [pdf](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah/blo
   - Python
     - [preprocess and prediction through ml models](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah?tab=readme-ov-file#preprocess-and-prediction-through-ml-models)
     - [Cause Of Death](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah?tab=readme-ov-file#cause-of-death-analysis)
-    - [Predicting Bank Term Deposit Subscription](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah/blob/main/Predicting%20Bank%20Term%20Deposit%20Subscription.ipynb) 
+    - [Predicting Bank Term Deposit Subscription](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah?tab=readme-ov-file#predicting-bank-term-deposit-subscription) 
   
 
 - [Education](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah?tab=readme-ov-file#education)  
@@ -59,7 +59,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** The classification goal is to predict if the client will subscribe a term deposit.
 
-**Code:** [`Cause Of Death.ipynb`](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah/blob/main/Predicting%20Bank%20Term%20Deposit%20Subscription.ipynb)
+**Code:** [`Predicting Bank Term Deposit Subscription.ipynb
+`](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah/blob/main/Predicting%20Bank%20Term%20Deposit%20Subscription.ipynb)
 
 **Description:** The dataset is related with direct marketing campaigns (phone calls) of a Portuguese banking institution
 
