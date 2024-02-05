@@ -21,7 +21,8 @@ My CV in [pdf](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah/blo
 - [Portfolio Projects](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah?tab=readme-ov-file#portfolio-projects)
   - Python
     - [preprocess and prediction through ml models](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah?tab=readme-ov-file#preprocess-and-prediction-through-ml-models)
-    - [Cause Of Death](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah?tab=readme-ov-file#cause-of-death-analysis)  
+    - [Cause Of Death](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah?tab=readme-ov-file#cause-of-death-analysis)
+    - [Predicting Bank Term Deposit Subscription](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah/blob/main/Predicting%20Bank%20Term%20Deposit%20Subscription.ipynb) 
   
 
 - [Education](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah?tab=readme-ov-file#education)  
@@ -36,7 +37,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:** This dataset contains information about the salaries of employees at a company. Each row represents a different employee, and the columns include information such as age, gender, education level, job title, years of experience, and salary.
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization, Machine Learning.
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
@@ -52,6 +53,19 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
 
 **Technology:** Python, Pandas, Matplotlib.
+
+
+### Predicting Bank Term Deposit Subscription
+
+**Goal:** The classification goal is to predict if the client will subscribe a term deposit.
+
+**Code:** [`Cause Of Death.ipynb`](https://github.com/mrrhmansyah/Portofolio-M-Ridwan-Rahmansyah/blob/main/Predicting%20Bank%20Term%20Deposit%20Subscription.ipynb)
+
+**Description:** The dataset is related with direct marketing campaigns (phone calls) of a Portuguese banking institution
+
+**Skills:** data cleaning, data analysis, hypothesis testing, data visualization, Machine Learning
+
+**Technology:** Python, Numpy, Pandas, Seaborn, Logistic Regression, Decision Tree Classifier
 
 
 
